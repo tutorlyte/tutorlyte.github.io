@@ -67,7 +67,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa-envelope"
       url: "mailto:tutorlyte@gmail.com"
 
 defaults:
