@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_filter: 0.9
+  overlay_filter: 0.8
   overlay_image: /assets/images/banner.jpg
   actions:
     - label: "Join now"
