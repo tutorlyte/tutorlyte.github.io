@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/banner.jpg
   actions:
     - label: "Join now"
-      url: "https://tinyurl.com/tutoring-signup-2023"
+      url: "https://forms.gle/Gw9qJvDw5mwxuSKL8"
 excerpt: >
   Tutorlyte is a high-quality tutoring program focused on helping students excel in class and contests.<br />
 feature_row:
