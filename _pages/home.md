@@ -12,8 +12,8 @@ excerpt: >
   Tutorlyte is a high-quality tutoring program focused on helping students excel in class and contests.<br />
 feature_row:
   - image_path: /assets/images/about-us.png
-    alt: "About us"
-    title: "About us"
+    alt: "About Us"
+    title: "About Us"
     excerpt: "Learn more about the program and its instructors."
     url: "/about/"
     btn_class: "btn--primary"
