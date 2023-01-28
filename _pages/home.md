@@ -25,8 +25,8 @@ feature_row:
     url: "/courses/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/pricing.jpg
-    alt: "Pricing"
+  - image_path: /assets/images/contact.png
+    alt: "Contact"
     title: "Contact"
     excerpt: "Contact us if you have any questions or concerns about the program."
     url: "[tutorlyte@gmail.com](mailto:tutorlyte@gmail.com)"
