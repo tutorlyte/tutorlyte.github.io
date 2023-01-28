@@ -25,7 +25,7 @@ feature_row:
     url: "/courses/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/pricing.png
+  - image_path: /assets/images/pricing.jpg
     alt: "Pricing"
     title: "Pricing"
     excerpt: "See how our tutoring is priced and possible discounts for it."
