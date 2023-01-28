@@ -5,3 +5,11 @@ main:
     url: /courses/
   - title: "Pricing"
     url: /pricing/
+
+tutoring:
+  - title: "Links"
+    children:
+      - title: "Syllabus"
+        url: https://www.dropbox.com/s/abenyneestf1yc1/G-syllabus.pdf?raw=1
+      - title: "Sign-up form"
+        url: https://forms.gle/Gw9qJvDw5mwxuSKL8
