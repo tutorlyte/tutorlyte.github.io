@@ -11,25 +11,25 @@ header:
 excerpt: >
   Tutorlyte is a high-quality tutoring program focused on helping students excel in class and contests.<br />
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/about-us.png
+    alt: "About us"
+    title: "About us"
+    excerpt: "Learn more about the program and its instructors."
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+  - image_path: /assets/images/courses.png
+    alt: "Courses"
+    title: "Our Courses"
+    excerpt: "See what we offer and whether or not it's right for you."
+    url: "/courses/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+  - image_path: /assets/images/pricing.png
+    alt: "Pricing"
+    title: "Pricing"
+    excerpt: "See how our tutoring is priced and possible discounts for it."
+    url: "/pricing/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
