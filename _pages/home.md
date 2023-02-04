@@ -29,7 +29,7 @@ feature_row:
     alt: "Contact"
     title: "Contact"
     excerpt: "Contact us if you have any questions or concerns about the program."
-    url: tutorlyte@gmail.com
+    url: mailto:tutorlyte@gmail.com
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
