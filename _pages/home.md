@@ -31,7 +31,7 @@ feature_row:
     excerpt: "Contact us if you have any questions or concerns about the program."
     url: mailto:tutorlyte@gmail.com
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Email us"      
 ---
 
 {% include feature_row %}
