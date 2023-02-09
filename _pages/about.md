@@ -17,4 +17,4 @@ Tutoring consists of a few components:
 
 More information regarding the specific [courses](/courses/) and payment can be found on the syllabus.
 
-<iframe src="https://www.dropbox.com/s/abenyneestf1yc1/G-syllabus.pdf?raw=1" width=600 height=700></iframe>
+<iframe src="https://www.dropbox.com/s/abenyneestf1yc1/G-syllabus.pdf?raw=1" width=650 height=700></iframe>
