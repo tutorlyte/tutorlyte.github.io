@@ -7,7 +7,7 @@ Tutorlyte is a high-quality, paid tutoring program focused on helping students w
 
 More information regarding the specific courses and payment can be found on the syllabus.
 
-<iframe src="https://www.dropbox.com/s/abenyneestf1yc1/G-syllabus.pdf?raw=1" width=600 height=800></iframe>
+<iframe src="https://www.dropbox.com/s/abenyneestf1yc1/G-syllabus.pdf?raw=1" width=600 height=700></iframe>
 
 # Structure
 Tutoring consists of a few components:
