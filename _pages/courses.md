@@ -5,18 +5,18 @@ title: "Our Courses"
 
 Contest-based classes are shown below:
 - TMSCA/MathLeague
-- AMC 8/MATHCOUNTS (Prereq: Algebra 1 and Geometry)
-- AMC 10/12 (Prereq: Algebra II)
-- AIME (Prereq: Precalculus)
+- AMC 8/MATHCOUNTS (**Prereq**: Algebra 1 and Geometry)
+- AMC 10/12 (**Prereq**: Algebra II)
+- AIME (**Prereq**: Precalculus)
 - F=ma
-- USACO Bronze (Prereq: AP CS A or fluency in another coding language)
+- USACO Bronze (**Prereq**: AP CS A or fluency in another coding language)
 
 School-based classes are shown below:
 - Algebra I
-- Geometry (Prereq: Algebra 1)
-- Algebra II (Prereq: Algebra I)
-- Precalculus (Prereq: Algebra II and Geometry)
-- AP Calculus BC (Prereq: Precalculus)
+- Geometry (**Prereq**: Algebra 1)
+- Algebra II (**Prereq**: Algebra I)
+- Precalculus (**Prereq**: Algebra II and Geometry)
+- AP Calculus BC (**Prereq**: Precalculus)
 - AP Physics 1
 - AP Computer Science A
 - AAC Biology
