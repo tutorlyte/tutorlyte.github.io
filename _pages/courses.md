@@ -3,6 +3,5 @@ permalink: /courses/
 title: "Our Courses"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Class offerings are shown below:
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTiwtt4SIvwT3d4V4rtVeB0TlWry7x3d2_5AR2NuY7IQzPVb2Bo1MBNs-7YnxxDeMTy77COB8I19M69/pubhtml?widget=true&amp;headers=false" width=600 height=500></iframe>
