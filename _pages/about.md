@@ -15,6 +15,6 @@ Tutoring consists of a few components:
 - **Discord**. If you have questions, the best way to get a fast response is through the community Discord, which will be available to students after joining.
 - **Email**. We can be emailed at [dylanyu66@gmail.com](mailto:dylanyu66@gmail.com) and [rushilnshah2@gmail.com.](mailto:rushilnshah2@gmail.com.)
 
-More information regarding the specific courses and payment can be found on the syllabus.
+More information regarding the specific [courses](/courses/) and payment can be found on the syllabus.
 
 <iframe src="https://www.dropbox.com/s/abenyneestf1yc1/G-syllabus.pdf?raw=1" width=600 height=700></iframe>
