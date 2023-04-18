@@ -8,7 +8,7 @@ Contest-based classes are shown below:
 - AMC 8/MATHCOUNTS (*Prereq*: Algebra 1 and Geometry)
 - AMC 10/12 (*Prereq*: Algebra II)
 - AIME (*Prereq*: Precalculus)
-- F=ma
+- F=ma (*Prereq*: AP Physics 1)
 - USACO Bronze (*Prereq*: AP CS A or fluency in another coding language)
 
 School-based classes are shown below:
