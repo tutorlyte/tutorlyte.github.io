@@ -17,6 +17,7 @@ School-based classes are shown below:
 - Algebra II (*Prereq*: Algebra I)
 - Precalculus (*Prereq*: Algebra II and Geometry)
 - AP Calculus BC (*Prereq*: Precalculus)
+- AP Statistics (*Prereq*: Algebra II)
 - AP Physics 1
 - AP Computer Science A
 - AAC Biology
