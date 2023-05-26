@@ -9,6 +9,7 @@ Contest-based classes are shown below:
 - AMC 10/12 (*Prereq*: Algebra II)
 - AIME (*Prereq*: Precalculus)
 - F=ma (*Prereq*: AP Physics 1)
+- USAPhO (*Prereq*: F=ma)
 - USACO Bronze (*Prereq*: AP CS A or fluency in another coding language)
 
 School-based classes are shown below:
