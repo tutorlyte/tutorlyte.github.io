@@ -21,6 +21,7 @@ School-based classes are shown below:
 - AP Statistics (*Prereq*: Algebra II)
 - AP Physics 1
 - AP Computer Science A
+- Intro to Python
 - AAC Biology
 
 
